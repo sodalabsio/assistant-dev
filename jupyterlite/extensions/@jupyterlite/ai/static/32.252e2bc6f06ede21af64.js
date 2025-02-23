@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_jupyterlite_ai=self.webpackChunk_jupyterlite_ai||[]).push([[32],{2032:(e,t,r)=>{Object.defineProperty(t,"__esModule",{value:!0}),Object.defineProperty(t,"default",{enumerable:!0,get:function(){return u.createSvgIcon}});var u=r(3704)}}]);
