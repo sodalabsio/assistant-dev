@@ -1,1 +1,0 @@
-import{_ as a}from"./mermaid.core-C__fv-e4.js";import{a2 as o}from"./appData-_m2vAOus.js";var d=a((t,e)=>{let n;return e==="sandbox"&&(n=o("#i"+t)),(e==="sandbox"?o(n.nodes()[0].contentDocument.body):o("body")).select(`[id="${t}"]`)},"getDiagramElement");export{d as g};
