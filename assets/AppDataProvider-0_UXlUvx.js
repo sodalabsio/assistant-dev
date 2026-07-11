@@ -1,1 +1,0 @@
-import{c as i,j as c}from"./index-CVadIs_P.js";import{g as n,A as l}from"./appData-BG3odmZN.js";const A=p=>{const t=i.c(5),{children:r,services:o}=p;let e;t[0]!==o?(e=o??n(),t[0]=o,t[1]=e):e=t[1];const a=e;let s;return t[2]!==r||t[3]!==a?(s=c.jsx(l.Provider,{value:a,children:r}),t[2]=r,t[3]=a,t[4]=s):s=t[4],s};export{A};
