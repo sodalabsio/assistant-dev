@@ -1,0 +1,1 @@
+import{c as n,j as o}from"./index-ChRMqocZ.js";const s=()=>{const t=n.c(1);let e;return t[0]===Symbol.for("react.memo_cache_sentinel")?(e=o.jsx("div",{children:"This OpenAI callback flow has been retired. Connect ChatGPT from Settings → AI Accounts."}),t[0]=e):e=t[0],e};export{s as default};
