@@ -1,1 +1,0 @@
-async function t(e,a){throw new Error("Claude Agent execution through the local helper is not available yet. Connect a Claude-capable VS Code Bridge instead.")}export{t as createLocalHelperManagedConversationDriver};
