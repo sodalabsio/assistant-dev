@@ -1,0 +1,19 @@
+{
+  "client_name": "Assistant MCP Client",
+  "redirect_uris": [
+    "https://assistant.sodalabs.io/oauth/callback",
+    "https://dev.assistant.sodalabs.io/oauth/callback",
+    "http://localhost:5173/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "code_challenge_methods_supported": [
+    "S256"
+  ]
+}
