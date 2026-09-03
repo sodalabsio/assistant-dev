@@ -1,0 +1,1 @@
+const e=s=>()=>{throw new Error(`fs/promises.${s} is not available in the browser`)},t=e("readFile"),r=e("writeFile"),a=e("stat");var i={readFile:t,writeFile:r,stat:a};export{i as default,t as readFile,a as stat,r as writeFile};
