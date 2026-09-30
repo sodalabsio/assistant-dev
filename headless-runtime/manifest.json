@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "sha256": "ea33d465651ab77ef5f259dda622bea5bee59f84010a216a86fa61f0f8adbb3c",
-  "file": "headless-runtime.ea33d465651ab77ef5f259dda622bea5bee59f84010a216a86fa61f0f8adbb3c.mjs",
-  "sizeBytes": 32977349,
-  "builtAt": "2026-09-28T02:26:17.798Z",
+  "sha256": "56a0d12f9fec6ce3ca33329edb393b658df6802d32df5794849cb261c1ae1c67",
+  "file": "headless-runtime.56a0d12f9fec6ce3ca33329edb393b658df6802d32df5794849cb261c1ae1c67.mjs",
+  "sizeBytes": 33043910,
+  "builtAt": "2026-09-30T10:00:36.993Z",
   "commit": "ccafb4dbf14227edddbe46796b4e1a553911d8ec"
 }
