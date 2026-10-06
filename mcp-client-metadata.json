@@ -1,4 +1,5 @@
 {
+  "client_id": "https://assistant.sodalabs.io/mcp-client-metadata.json",
   "client_name": "Assistant MCP Client",
   "redirect_uris": [
     "https://assistant.sodalabs.io/oauth/callback",
