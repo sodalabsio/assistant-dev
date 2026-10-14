@@ -1,0 +1,1 @@
+function p(s,o,c,t=()=>performance.now()){const f=t();let r=0,e,n=!1;const a=()=>Math.max(0,t()-f);return{attempt(){r+=1},firstField(){e??=a()},finish(l,i){if(n)return;n=!0;const d={stage:s,actionId:o,...i?{model:i}:{},attempts:r,status:l,...e===void 0?{}:{firstFieldMs:e},completedMs:a()};try{c?.(d)}catch(m){console.warn("Governance timing listener failed:",m)}}}}export{p as c};
