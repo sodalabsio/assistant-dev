@@ -1,1 +1,0 @@
-import{_ as a}from"./mermaid.core-X_OLD-cB.js";import{aC as o}from"./reduxStore-wfD_HuXT.js";var d=a((t,e)=>{let n;return e==="sandbox"&&(n=o("#i"+t)),(e==="sandbox"?o(n.nodes()[0].contentDocument.body):o("body")).select(`[id="${t}"]`)},"getDiagramElement");export{d as g};
