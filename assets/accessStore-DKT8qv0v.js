@@ -1,0 +1,1 @@
+let t;const e=r=>{t=r},o=()=>{if(!t)throw new Error("Store not initialized");return t},i=()=>{if(!t)throw new Error("Store not initialized");return t.getState()},n=()=>{if(!t)throw new Error("Store not initialized");return t.dispatch};export{n as getDispatch,i as getState,o as getStore,e as setStore};
