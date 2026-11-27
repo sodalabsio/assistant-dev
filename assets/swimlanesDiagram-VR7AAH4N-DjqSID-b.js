@@ -1,0 +1,8 @@
+import{c as r,s as o}from"./flowDiagram-HODETNUW-C0BGXp5Z.js";import{_ as m}from"./mermaid.core-Bfa10bMx.js";import"./reduxStore-gx0CD172.js";import"./chunk-5VM5RSS4-CcfoJ1YV.js";import"./chunk-XXDRQBXY-BTLYEftk.js";import"./chunk-POPQ4Y6H-gvA8U06g.js";import"./chunk-F27PBJKO-CCabg-lj.js";import"./channel-Cb0K77VP.js";import"./index-CKNUmH_F.js";import"./isObject-CGZ9pm3u.js";import"./recovery-DBJbLsRX.js";import"./boot-D9KcHJz_.js";import"./keyUtils-Byiz9Hk3.js";import"./artifactVersionsSlice-B9WBrMSw.js";import"./redux-toolkit.modern-BCXeeUgq.js";import"./conversationCatalogTable-D8t_wYL7.js";import"./delegationToolNames-BWcF3UND.js";import"./durability-woD-Z6z5.js";import"./frontmatter-1kjWOa6N.js";import"./customProviders-BJa3hv1V.js";import"./accountRouting-DdNHrjb9.js";import"./accessStore-DKT8qv0v.js";import"./createSvgIcon-CEZtI9CT.js";import"./llm-vs9CI7KB.js";import"./csrf-Dwpw9bZ9.js";import"./settingsSlice-Bt53AcTN.js";import"./slackSocketMode-DGCVrBVL.js";import"./collectionsThunks-Cid-d2f0.js";import"./VSCodeBridgeManager-lXk5KNtG.js";import"./createAgentHostDriver-zsQw93EK.js";import"./publicImagesSlice-Cr7VkXGL.js";import"./api-BzaaWxIM.js";import"./userImagesSlice-C44PjpEz.js";import"./extractDocument-Cvr4HGHR.js";import"./TextField-DhblBhEg.js";import"./usage-iNGCGQCU.js";import"./accountRouter-DtXRuGdv.js";import"./resolveAgentHost-C8I9Nm2l.js";var i=m(t=>`${o(t)}
+  .swimlane.cluster rect {
+    stroke: ${t.clusterBorder} !important;
+  }
+  [data-look="neo"].cluster rect {
+    filter: none;
+  }
+`,"getStyles"),p=i,P=r({defaultLayout:"swimlane",styles:p});export{P as diagram};
